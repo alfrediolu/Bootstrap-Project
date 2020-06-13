@@ -1,0 +1,11 @@
+body{
+    font-family: 'Belleza', sans-serif;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
